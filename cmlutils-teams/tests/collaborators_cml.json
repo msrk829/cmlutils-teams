@@ -1,0 +1,8 @@
+  {
+    "permissions": "write",
+    "id": 4,
+    "username": "test",
+    "name": "Test",
+    "admin": false,
+    "businessUser": false
+  }

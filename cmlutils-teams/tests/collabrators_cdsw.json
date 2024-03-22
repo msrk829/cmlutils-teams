@@ -1,0 +1,34 @@
+[
+  {
+    "permissions": "read",
+    "id": 7,
+    "username": "zhabony",
+    "name": "Zsolt",
+    "admin": false,
+    "businessUser": false
+  },
+  {
+    "permissions": "write",
+    "id": 4,
+    "username": "test",
+    "name": "Test",
+    "admin": false,
+    "businessUser": false
+  },
+  {
+    "permissions": "operator",
+    "id": 9,
+    "username": "jichen",
+    "name": "ji.chen",
+    "admin": false,
+    "businessUser": false
+  },
+  {
+    "permissions": "admin",
+    "id": 2,
+    "username": "jeno",
+    "name": "jeno",
+    "admin": true,
+    "businessUser": false
+  }
+]

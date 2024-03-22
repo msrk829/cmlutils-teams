@@ -1,0 +1,2 @@
+[console_scripts]
+cmlutil = cmlutils.cli_entrypoint:main
